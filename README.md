@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aynazjvn
-- 👀 I’m interested in Machine learning, Python, Data Science, and Artificial intelligence
-- 🌱 I’m currently learning Data Science and Artificial intelligence
+- 👀 I’m interested in Machine learning, Python, Deep learning, and Artificial intelligence
+- 🌱 I’m currently learning Artificial intelligence and Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aynazjavaniii@gmail.com
 
