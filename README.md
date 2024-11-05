@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aynazjvn
 - 👀 I’m interested in Machine learning, Python, Deep learning, and Artificial intelligence
 - 🌱 I’m currently learning Artificial intelligence and Machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to Machine learning and deep learning.
 - 📫 How to reach me aynazjavaniii@gmail.com
 
 <!---
