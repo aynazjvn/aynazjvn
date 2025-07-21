@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Aynaz Javanivayeghan ✨
+## 👋 Hi there, I'm Aynaz ✨
 
 🎓 MSc Student in Computer Science (AI) at Concordia University  <br/>
 🧠 AI & ML enthusiast | Passionate about Speech AI and Deep Learning <br/>
